@@ -7,8 +7,8 @@
 <!-- UL -->
 [Java 1.8 or above] - Java Platform, Standard Edition Development Kit <br> https://www.oracle.com/java/technologies/javase-jdk11-downloads.html <br>
 [ Eclipse ] - Java Integrated Development Environment ( IDE )<br> https://www.eclipse.org/downloads/ <br>
-[ Maven 3.x] - Dependency Management perform uniform build system <br> https://maven.apache.org/index.html
-[ Git ] - Free and Open source distributed version control system <br> https://git-scm.com/
+[ Maven 3.x] - Dependency Management perform uniform build system <br> https://maven.apache.org/index.html <br>
+[ Git ] - Free and Open source distributed version control system <br> https://git-scm.com/ <br>
 [ Postman ] - API Development Environment ( local testing) <br> https://www.postman.com/
 
 
