@@ -31,9 +31,7 @@ if present should return yes else no.
   2.4 - Right click and run as java application   
 3. Check console log as project run at Tomcat server on port 8080
 4. The application will run at http://localhost:8080 or check http://localhost:8080/actuator/health
-
-<!-- OL -->
-1. Application flow 
+5. Application flow architecture 
 <!-- UL -->
 * Java Resource file -> Service file --> Helper file.
 
