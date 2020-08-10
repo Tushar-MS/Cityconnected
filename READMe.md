@@ -2,7 +2,7 @@
 <!-- UL -->
 * Determine if two cities connected form origin to destination directly or via inter connected city. Program using spring boot and Java ( 1.8 or above)
 
-<!-- Blockquote -->
+
 ### Build With
 <!-- UL -->
 [Java 1.8 or above] - Java Platform, Standard Edition Development Kit <br> https://www.oracle.com/java/technologies/javase-jdk11-downloads.html <br>
@@ -10,7 +10,7 @@
 [ Maven 3.x] - Dependency Management perform uniform build system <br> https://maven.apache.org/index.html
 [ Git ] - Free and Open source distributed version control system <br> https://git-scm.com/
 [ Postman ] - API Development Environment ( local testing) <br> https://www.postman.com/
----
+
 
 
 ### Rest API URI
